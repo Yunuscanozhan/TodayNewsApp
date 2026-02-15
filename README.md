@@ -29,8 +29,9 @@ Future improvements include:
 - Integrating network requests to fetch real news content.
 
 ## Screenshots
-<img width="462" height="765" alt="AppImage1" src="https://github.com/user-attachments/assets/cd1f1a9c-7fc0-4452-af17-dbe0a8186165" />
-<img width="421" height="759" alt="AppImage2" src="https://github.com/user-attachments/assets/271269aa-b589-4b29-be8e-c5a3f82dfe32" />
+<img width="420" height="760" alt="NewsAppImage1" src="https://github.com/user-attachments/assets/880e2717-9479-460f-9b50-604c3a573f56" />
+<img width="404" height="762" alt="NewsAppImage2" src="https://github.com/user-attachments/assets/33ba1482-2780-4e1c-809a-b733a1a5c9cc" />
+
 
 
 ## How to Run
